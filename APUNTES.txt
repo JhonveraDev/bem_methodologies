@@ -1,0 +1,24 @@
+Html Etiquetas cruciales para una excelente construccion web
+https://www.w3schools.com/tags/default.asp
+
+para css utilizar BEM en HTML
+https://www.youtube.com/watch?v=wDUwGo98JTA
+https://www.youtube.com/watch?v=bvnzyXGkNY4
+
+
+FLEXBOX:
+https://darekkay.com/flexbox-cheatsheet/
+
+https://css-tricks.com/
+
+https://flexboxfroggy.com/#es 11
+
+
+
+REPLICA BEM
+https://9elements.com/bem-cheat-sheet/
+
+ESTILOS
+https://sass-lang.com/guide
+http://lesscss.org/
+http://stylus-lang.com/
